@@ -4,5 +4,8 @@ class Student{
     }
     public void greet(){
         System.out.println("Good morning");
+    }	
+    public static void work(){
+	System.out.println("I am working");
     }
 }
