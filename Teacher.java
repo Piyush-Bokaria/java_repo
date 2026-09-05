@@ -5,5 +5,7 @@ public class Teacher {
 	System.out.println("4th line");
         System.out.println("3rd line");
     }
-
+    public void teach(){
+	System.out.println("I am teaching");
+    }
 }
