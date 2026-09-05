@@ -3,6 +3,7 @@ public class Teacher {
         System.out.println("Hello World !! Teacher");
         System.out.println("Bye Teacher");
 	System.out.println("4th line");
+        System.out.println("3rd line");
     }
 
 }
